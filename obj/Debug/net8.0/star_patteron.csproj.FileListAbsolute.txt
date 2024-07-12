@@ -1,0 +1,14 @@
+C:\Users\aaa\source\Git\star_patteron\star_patteron\bin\Debug\net8.0\star_patteron.exe
+C:\Users\aaa\source\Git\star_patteron\star_patteron\bin\Debug\net8.0\star_patteron.deps.json
+C:\Users\aaa\source\Git\star_patteron\star_patteron\bin\Debug\net8.0\star_patteron.runtimeconfig.json
+C:\Users\aaa\source\Git\star_patteron\star_patteron\bin\Debug\net8.0\star_patteron.dll
+C:\Users\aaa\source\Git\star_patteron\star_patteron\bin\Debug\net8.0\star_patteron.pdb
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.AssemblyInfoInputs.cache
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.AssemblyInfo.cs
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.dll
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\refint\star_patteron.dll
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.pdb
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\star_patteron.genruntimeconfig.cache
+C:\Users\aaa\source\Git\star_patteron\star_patteron\obj\Debug\net8.0\ref\star_patteron.dll
